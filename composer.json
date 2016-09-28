@@ -1,5 +1,5 @@
 {
-    "name": "webeith/imap-bundle",
+    "name": "unlooped/webeith_imap-bundle",
     "type": "symfony-bundle",
     "description": "Imap bundle for Symfony2",
     "keywords": ["imap"],
